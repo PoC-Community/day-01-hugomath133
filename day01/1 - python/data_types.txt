@@ -1,0 +1,7 @@
+1
+"hello world"
+1.0
+["apples", "oranges", "bananas"]
+{"answer": 42}
+2 + 2 == 4
+None
